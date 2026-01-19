@@ -42,7 +42,7 @@ Sou EsTudante de Análise e Desevolvimento de Sistemas pela Universidade Metodis
 
 ---
 
-### Projetos em Destaque
+## Projetos em Destaque
 
 **Projeto "Acessibilidade nos Cinemas Brasileiros" em Power BI** (finalizado)- Projeto de Análise Descritiva de Dados utilizando a Ferramenta Power BI da Microsoft sobre o atual cenário da acessibilidade física dos Cinemas Brasileiros. Compreende Extração, limpeza e modelagem de dados disponibilizados pela Agência Nacional do Cinema (ANCINE), uso de fórmulas DAX, visualização de dados por meio de cards, gráficos e Mapas para obter indicadores e Insights.
 
@@ -61,7 +61,7 @@ Sou EsTudante de Análise e Desevolvimento de Sistemas pela Universidade Metodis
 
 **Projeto Jurisconsulto em SQL e PythonProjeto Jurisconsulto em SQL e Python**: Projeto de implementação, modelagem e de consulta de um Banco de Dados Relacional de um escritório de advocacia com a ferramenta MYSQL e Linguagem SQL. Criação do aplicativo de Gestão jurídica Jurisconsulto: em linguagem Python de uma aplicação com fim de simplificação na inserção e visualização de Dados para usuários sem conhecimento da linguagem SQL e automação de Preâmbulo de Petições Iniciais.
 
-## Competências Desenvolvidas
+### Competências Desenvolvidas
 
 - Modelagem de banco de dados relacional para gestão de clientes e processos
 - Criação e execução de SQL para manipulação e consulta de dados
@@ -79,7 +79,7 @@ Sou EsTudante de Análise e Desevolvimento de Sistemas pela Universidade Metodis
 
 **Projeto STF**: Projeto em Python de Extração, Transformação, limpeza, modelagem e visualização de dados. Explora as possibilidades da linguagem Python como ferramenta de análise de dados a partir de uma planilha de Dados Públicos do Supremo Tribunal Federal.
 
-## Competências Desenvolvidas
+### Competências Desenvolvidas
 - Extração de dados a partir de fontes externas (planilhas Excel) utilizando Python  
 - Limpeza, padronização e transformação de dados para análise  
 - Preparação de datasets estruturados para consumo analítico  
@@ -105,12 +105,12 @@ Sou EsTudante de Análise e Desevolvimento de Sistemas pela Universidade Metodis
 
 ---
 
-### Coleção Fundamentos
+## Coleção Fundamentos
 Coleção de Projetos de aplicação prática de Fundamentos em Linguagens e Ferramentas
 
-**Fundamentos SQL**: Estudos de fundamentos da linguagem SQL a partir de um cadastro de alunos
+### Fundamentos SQL v: Estudos de fundamentos da linguagem SQL a partir de um cadastro de alunos
 
-## Competências Desenvolvidas
+### Competências Desenvolvidas
 
 - Modelagem e definição de esquemas de banco de dados SQL (DDL: criação, alteração e exclusão de tabelas)  
 - Manipulação de dados com comandos SQL (DML: INSERT, UPDATE, DELETE, TRUNCATE)  
@@ -130,7 +130,7 @@ Coleção de Projetos de aplicação prática de Fundamentos em Linguagens e Fer
 
 **Fundamentos Python**: 5 Projetos, cada um que desenvolve um fundamento básico diferente da linguagem Python
 
-## Competências Desenvolvidas
+### Competências Desenvolvidas
 
 - Compreensão e aplicação de **variáveis e operadores** em Python  
 - Controle de fluxo com **estruturas condicionais (`if`, `else`)** e **loops (`while`, `for`)**  
