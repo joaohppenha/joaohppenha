@@ -21,21 +21,17 @@ Sou EsTudante de Análise e Desevolvimento de Sistemas pela Universidade Metodis
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power%20Query](https://img.shields.io/badge/Power%20Query-742774?style=flat&logo=microsoft&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
@@ -57,6 +53,21 @@ Sou EsTudante de Análise e Desevolvimento de Sistemas pela Universidade Metodis
 - Publicação do relatório no Power BI
   
 **Link:** https://github.com/joaohppenha/projeto_acessibilidade_nos_cinemas
+
+## Projeto "Financeira": 
+Projeto completo de um sistema de empréstimo consignado utilizando bancos NoSQL (MongoDB, Redis e Cassandra). Inclui modelagem, CRUD, consultas avançadas, cache, otimizações de performance e execução via Docker, tudo documentado em notebooks Jupyter.
+
+## Competências Desenvolvidas
+- Modelagem NoSQL (MongoDB, Cassandra)
+- CRUD e operações avançadas em bancos NoSQL
+- Consultas com agregações e índices (MongoDB)
+- Cache e otimização de performance (Redis)
+- Criação de métricas e monitoramento simples
+- Uso de Docker para ambiente reproduzível
+- Documentação técnica com Jupyter Notebooks
+- Boas práticas de engenharia de dados
+
+**Link**: https://github.com/joaohppenha/projeto-banco-de-emprestimo-consignado
 
 
 **Projeto Jurisconsulto em SQL e PythonProjeto Jurisconsulto em SQL e Python**: Projeto de implementação, modelagem e de consulta de um Banco de Dados Relacional de um escritório de advocacia com a ferramenta MYSQL e Linguagem SQL. Criação do aplicativo de Gestão jurídica Jurisconsulto: em linguagem Python de uma aplicação com fim de simplificação na inserção e visualização de Dados para usuários sem conhecimento da linguagem SQL e automação de Preâmbulo de Petições Iniciais.
