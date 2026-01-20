@@ -108,7 +108,7 @@ Sou EsTudante de Análise e Desevolvimento de Sistemas pela Universidade Metodis
 ## Coleção Fundamentos
 Coleção de Projetos de aplicação prática de Fundamentos em Linguagens e Ferramentas
 
-### Fundamentos SQL v: Estudos de fundamentos da linguagem SQL a partir de um cadastro de alunos
+### Fundamentos SQL: Estudos de fundamentos da linguagem SQL a partir de um cadastro de alunos
 
 ### Competências Desenvolvidas
 
@@ -128,7 +128,7 @@ Coleção de Projetos de aplicação prática de Fundamentos em Linguagens e Fer
 
 **Link**:https://github.com/joaohppenha/fundamentos-sql
 
-**Fundamentos Python**: 5 Projetos, cada um que desenvolve um fundamento básico diferente da linguagem Python
+### Fundamentos Python: 5 Projetos, cada um que desenvolve um fundamento básico diferente da linguagem Python
 
 ### Competências Desenvolvidas
 
