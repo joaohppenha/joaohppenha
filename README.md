@@ -1,7 +1,19 @@
 ## Olá, eu sou João Henrique 👋
 
-Sou EsTudante de Análise e Desevolvimento de Sistemas pela Universidade Metodista do Estado de São Paulo (UNIMESP) e entusiasta na Área de Dados. Atualmente estudo e desenvolvo projetos práticos utilizando Python e SQL e ferramentas de visualização como o POWER BI, com foco em organização, qualidade e ciclo de dados.
+Sou Analista de Dados e Jurimetrista com foco na construção de soluções preditivas e otimização de infraestruturas de dados. Minha atuação combina Ciência de Dados, Engenharia e Business Intelligence para transformar grandes volumes de informação em ativos estratégicos e redução de passivos financeiros.
 
+**Especialidades Técnicas:**
+
+**Data Science e Jurimetria:** Modelagem estocástica com Random Forest para predição de risco e provisionamento dinâmico de processos judiciais.
+
+**Engenharia de Dados:** Desenvolvimento de pipelines de ETL e gestão de bancos de dados SQL e NoSQL (Redis, Cassandra, MongoDB), com foco em escalabilidade e baixa latência.
+
+**Business Intelligence:** Criação de dashboards executivos em Streamlit e Power BI para monitoramento de KPIs e suporte à tomada de decisão.
+
+**Metodologias e Infraestrutura:** Gestão de projetos sob o framework Scrum e experiência com arquitetura em nuvem e fundamentos de computação em nuvem.
+
+Objetivo:
+Conectar tecnologia de ponta e rigor estatístico para resolver problemas complexos de negócio, garantindo a integridade dos dados e a geração de valor mensurável.
 ---
 
 ### Áreas de Interesse
@@ -70,7 +82,9 @@ Projeto completo de um sistema de empréstimo consignado utilizando bancos NoSQL
 **Link**: https://github.com/joaohppenha/projeto-banco-de-emprestimo-consignado
 
 
-## **Projeto Jurisconsulto em SQL e PythonProjeto Jurisconsulto em SQL e Python**: Projeto de implementação, modelagem e de consulta de um Banco de Dados Relacional de um escritório de advocacia com a ferramenta MYSQL e Linguagem SQL. Criação do aplicativo de Gestão jurídica Jurisconsulto: em linguagem Python de uma aplicação com fim de simplificação na inserção e visualização de Dados para usuários sem conhecimento da linguagem SQL e automação de Preâmbulo de Petições Iniciais.
+## **Projeto Jurisconsulto em SQL e PythonProjeto Jurisconsulto em SQL e Python**: 
+
+Projeto de implementação, modelagem e de consulta de um Banco de Dados Relacional de um escritório de advocacia com a ferramenta MYSQL e Linguagem SQL. Criação do aplicativo de Gestão jurídica Jurisconsulto: em linguagem Python de uma aplicação com fim de simplificação na inserção e visualização de Dados para usuários sem conhecimento da linguagem SQL e automação de Preâmbulo de Petições Iniciais.
 
 ### Competências Desenvolvidas
 
@@ -88,7 +102,9 @@ Projeto completo de um sistema de empréstimo consignado utilizando bancos NoSQL
 **Link:**https://github.com/joaohppenha/projeto-jurisconsulto
 
 
-## **Projeto STF**: Projeto em Python de Extração, Transformação, limpeza, modelagem e visualização de dados. Explora as possibilidades da linguagem Python como ferramenta de análise de dados a partir de uma planilha de Dados Públicos do Supremo Tribunal Federal.
+## **Projeto STF**: 
+
+Projeto em Python de Extração, Transformação, limpeza, modelagem e visualização de dados. Explora as possibilidades da linguagem Python como ferramenta de análise de dados a partir de uma planilha de Dados Públicos do Supremo Tribunal Federal.
 
 ### Competências Desenvolvidas
 - Extração de dados a partir de fontes externas (planilhas Excel) utilizando Python  
