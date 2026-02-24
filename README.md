@@ -70,7 +70,7 @@ Projeto completo de um sistema de empréstimo consignado utilizando bancos NoSQL
 **Link**: https://github.com/joaohppenha/projeto-banco-de-emprestimo-consignado
 
 
-**Projeto Jurisconsulto em SQL e PythonProjeto Jurisconsulto em SQL e Python**: Projeto de implementação, modelagem e de consulta de um Banco de Dados Relacional de um escritório de advocacia com a ferramenta MYSQL e Linguagem SQL. Criação do aplicativo de Gestão jurídica Jurisconsulto: em linguagem Python de uma aplicação com fim de simplificação na inserção e visualização de Dados para usuários sem conhecimento da linguagem SQL e automação de Preâmbulo de Petições Iniciais.
+## **Projeto Jurisconsulto em SQL e PythonProjeto Jurisconsulto em SQL e Python**: Projeto de implementação, modelagem e de consulta de um Banco de Dados Relacional de um escritório de advocacia com a ferramenta MYSQL e Linguagem SQL. Criação do aplicativo de Gestão jurídica Jurisconsulto: em linguagem Python de uma aplicação com fim de simplificação na inserção e visualização de Dados para usuários sem conhecimento da linguagem SQL e automação de Preâmbulo de Petições Iniciais.
 
 ### Competências Desenvolvidas
 
@@ -88,7 +88,7 @@ Projeto completo de um sistema de empréstimo consignado utilizando bancos NoSQL
 **Link:**https://github.com/joaohppenha/projeto-jurisconsulto
 
 
-**Projeto STF**: Projeto em Python de Extração, Transformação, limpeza, modelagem e visualização de dados. Explora as possibilidades da linguagem Python como ferramenta de análise de dados a partir de uma planilha de Dados Públicos do Supremo Tribunal Federal.
+## **Projeto STF**: Projeto em Python de Extração, Transformação, limpeza, modelagem e visualização de dados. Explora as possibilidades da linguagem Python como ferramenta de análise de dados a partir de uma planilha de Dados Públicos do Supremo Tribunal Federal.
 
 ### Competências Desenvolvidas
 - Extração de dados a partir de fontes externas (planilhas Excel) utilizando Python  
