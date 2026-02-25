@@ -82,6 +82,29 @@ Projeto completo de um sistema de empréstimo consignado utilizando bancos NoSQL
 
 **Link**: https://github.com/joaohppenha/projeto-banco-de-emprestimo-consignado
 
+---
+### **Projeto "Jurimetria Preditiva e Provisão Financeira"** (Finalizado)
+
+Projeto de Ciência de Dados aplicada ao Direito para análise de tendências judiciais e otimização de fluxo de caixa. O sistema realiza o processamento de grandes volumes de dados processuais para prever desfechos e calcular o provisionamento financeiro necessário, mitigando riscos operacionais e estratégicos.
+
+**Competências Desenvolvidas:**
+
+-   **Modelagem Preditiva:** Implementação de algoritmos de Machine Learning (Random Forest) para predição de êxito e risco.
+    
+-   **Pipeline de Dados (ETL):** Extração e higienização de dados de múltiplas fontes (SQL, NoSQL, APIs e Web Scraping).
+    
+-   **Análise Estatística:** Aplicação de métodos estocásticos para identificação de padrões em decisões judiciais.
+    
+-   **Business Intelligence:** Desenvolvimento de dashboards no Power BI para monitoramento de KPIs jurídicos e financeiros.
+    
+-   **Otimização de Performance:** Estruturação de queries complexas para redução de tempo de resposta em grandes datasets.
+    
+-   **Impacto no Negócio:** Tradução de dados brutos em insights que geraram aumento de até 50% na eficiência da gestão de processos.
+    
+
+**Link:** [https://github.com/joaohppenha/jurimetria_preditiva](https://github.com/joaohppenha/jurimetria_preditiva)
+
+---
 
 ## **Projeto Jurisconsulto em SQL e PythonProjeto Jurisconsulto em SQL e Python**: 
 
