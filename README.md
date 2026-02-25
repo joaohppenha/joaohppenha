@@ -52,7 +52,7 @@ Conectar tecnologia de ponta e rigor estatístico para resolver problemas comple
 
 ## Projetos em Destaque
 
-**Projeto "Acessibilidade nos Cinemas Brasileiros" em Power BI** (finalizado)- Projeto de Análise Descritiva de Dados utilizando a Ferramenta Power BI da Microsoft sobre o atual cenário da acessibilidade física dos Cinemas Brasileiros. Compreende Extração, limpeza e modelagem de dados disponibilizados pela Agência Nacional do Cinema (ANCINE), uso de fórmulas DAX, visualização de dados por meio de cards, gráficos e Mapas para obter indicadores e Insights.
+##**Projeto "Acessibilidade nos Cinemas Brasileiros" em Power BI** (finalizado)- Projeto de Análise Descritiva de Dados utilizando a Ferramenta Power BI da Microsoft sobre o atual cenário da acessibilidade física dos Cinemas Brasileiros. Compreende Extração, limpeza e modelagem de dados disponibilizados pela Agência Nacional do Cinema (ANCINE), uso de fórmulas DAX, visualização de dados por meio de cards, gráficos e Mapas para obter indicadores e Insights.
 
 ***Competências Desenvolvidas***:
 
