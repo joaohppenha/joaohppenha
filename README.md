@@ -81,7 +81,9 @@ Projeto de Análise Descritiva de Dados utilizando a Ferramenta Power BI da Micr
   
 **Link:** https://github.com/joaohppenha/projeto_acessibilidade_nos_cinemas
 
-### [Pipeline Medalhão — Acidentes de Trânsito PRF 2025](https://github.com/joaohppenha/projeto-acidentes-prf)
+----
+
+### Pipeline Medalhão — Acidentes de Trânsito PRF 2025
 
 > *Engenharia de Dados ponta a ponta com arquitetura Medalhão em Databricks*
 
@@ -91,6 +93,7 @@ Pipeline completo de dados públicos da PRF com **arquitetura Medalhão (Bronze 
 
 `PySpark` `Delta Lake` `Databricks` `Arquitetura Medalhão` `ETL` `Python` `SQL` `Big Data` `Data Engineering`
 
+Link: https://github.com/joaohppenha/projeto-acidentes-prf
 ---
 
 ## Projeto "Financeira": 
