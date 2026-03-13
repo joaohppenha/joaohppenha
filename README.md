@@ -3,7 +3,7 @@
 <p align="center">
   <b> Analista de Dados e Negócios Jurídicos • Jurimetrista </b><br/>
 
- Dashboards · Machine Learning · Business Intelligence • Pipelines de dados de ponta a ponta · Arquitetura Medalhão
+<center> Dashboards · Machine Learning · Business Intelligence • Pipelines de dados de ponta a ponta · Arquitetura Medalhão </center>
 </p>
 
 <p align="center">
