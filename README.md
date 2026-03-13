@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## 🧠 Sobre mim
+## Sobre 
 ---
 Sou Analista de Dados e Jurimetrista com foco na construção de soluções preditivas e otimização de infraestruturas de dados. Minha atuação combina Ciência de Dados, Engenharia e Business Intelligence para transformar grandes volumes de informação em ativos estratégicos e redução de passivos financeiros.
 
