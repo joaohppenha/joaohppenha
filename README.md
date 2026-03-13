@@ -1,5 +1,19 @@
-## Olá, eu sou João Henrique 👋
+<h1 align="center">Olá, eu sou João Henrique 👋</h1>
 
+<p align="center">
+  <b> Analista de Dados e Negócios Jurídicos • Jurimetrista /b><br/>
+
+ Dashboards · Machine Learning · Business Intelligence • Pipelines de dados de ponta a ponta · Arquitetura Medalhão
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhppenha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+## 🧠 Sobre mim
+---
 Sou Analista de Dados e Jurimetrista com foco na construção de soluções preditivas e otimização de infraestruturas de dados. Minha atuação combina Ciência de Dados, Engenharia e Business Intelligence para transformar grandes volumes de informação em ativos estratégicos e redução de passivos financeiros.
 
 **Especialidades Técnicas:**
