@@ -20,7 +20,7 @@ Sou Analista de Dados e Jurimetrista com foco na construção de soluções pred
 
 **Data Science e Jurimetria:** Modelagem estocástica com Random Forest para predição de risco e provisionamento dinâmico de processos judiciais.
 
-**Engenharia de Dados:** Desenvolvimento de pipelines de ETL e gestão de bancos de dados SQL e NoSQL (Redis, Cassandra, MongoDB), com foco em escalabilidade e baixa latência.
+**Engenharia de Dados:** Desenvolvimento de pipelines, Databricks, Cloud, orquestração no Apache Airflow, processamento em Spark, ETL e gestão de bancos de dados SQL e NoSQL (Redis, Cassandra, MongoDB), com foco em escalabilidade e baixa latência.
 
 **Business Intelligence:** Criação de dashboards executivos em Streamlit e Power BI para monitoramento de KPIs e suporte à tomada de decisão.
 
@@ -232,6 +232,24 @@ Coleção de Projetos de aplicação prática de Fundamentos em Linguagens e Fer
 
 
 ---
+
+## 📌 Áreas de Interesse
+
+- ⚙️ Engenharia de Dados · Pipelines ETL/ELT · Arquitetura de Dados
+- 📊 Análise de Dados · Ciência de Dados · Machine Learning
+- ⚖️ Jurimetria · Legal Analytics · Dados Jurídicos
+- 🗄️ Bancos de Dados SQL e NoSQL · Data Modeling
+- 📈 Business Intelligence · Dashboards · Data Storytelling
+- ☁️ Cloud Data Platforms · Databricks · BigQuery
+
+---
+
+<!-- ATS Keywords: Engenheiro de Dados, Analista de Dados, Data Engineer, Data Analyst, Data Scientist, Python, PySpark, SQL, ETL, ELT, Pipeline de Dados, Arquitetura Medalhão, Medallion Architecture, Delta Lake, Databricks, Apache Spark, Big Data, Machine Learning, Scikit-learn, Random Forest, Power BI, Tableau, Streamlit, PostgreSQL, MySQL, MongoDB, Redis, Cassandra, NoSQL, Docker, Git, BigQuery, Business Intelligence, KPI, Data Modeling, Data Pipeline, Jurimetria, Legal Tech, Dados Abertos, Visualização de Dados -->
+
+<p align="center">
+  <i>Conectando tecnologia de ponta e rigor estatístico para resolver problemas complexos de negócio.</i>
+</p>
+
 
 ## Contato
 **Linkedin**: https://www.linkedin.com/in/jhppenha/
