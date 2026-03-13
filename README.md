@@ -81,6 +81,18 @@ Projeto de Análise Descritiva de Dados utilizando a Ferramenta Power BI da Micr
   
 **Link:** https://github.com/joaohppenha/projeto_acessibilidade_nos_cinemas
 
+### [Pipeline Medalhão — Acidentes de Trânsito PRF 2025](https://github.com/joaohppenha/projeto-acidentes-prf)
+
+> *Engenharia de Dados ponta a ponta com arquitetura Medalhão em Databricks*
+
+Pipeline completo de dados públicos da PRF com **arquitetura Medalhão (Bronze → Silver → Gold)** em PySpark e Delta Lake no Databricks. Processa 72.524 registros com transformações distribuídas, particionamento, transações ACID e entrega analítica via dashboard Databricks SQL — do CSV bruto ao insight em ~2 minutos.
+
+**Destaques técnicos:** arquitetura Medalhão, Delta Lake com versionamento ACID, orquestração via `dbutils.notebook.run()` (padrão Airflow-ready), 4 tabelas Gold com métricas derivadas e dashboard publicado.
+
+`PySpark` `Delta Lake` `Databricks` `Arquitetura Medalhão` `ETL` `Python` `SQL` `Big Data` `Data Engineering`
+
+---
+
 ## Projeto "Financeira": 
 Projeto completo de um sistema de empréstimo consignado utilizando bancos NoSQL (MongoDB, Redis e Cassandra). Inclui modelagem, CRUD, consultas avançadas, cache, otimizações de performance e execução via Docker, tudo documentado em notebooks Jupyter.
 
