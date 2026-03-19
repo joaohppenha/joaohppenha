@@ -1,9 +1,8 @@
 <h1 align="center">Olá, eu sou João Henrique 👋</h1>
 
 <p align="center">
-  <b> Analista de Dados e Negócios Jurídicos • Jurimetrista </b><br/>
-
-<center> Dashboards · Machine Learning · Business Intelligence • Pipelines de dados de ponta a ponta · Arquitetura Medalhão </center>
+  <b>Analista de Dados e Negócios Jurídicos • Jurimetrista</b><br/>
+  <center>Dashboards · Machine Learning · Business Intelligence · Pipelines de dados de ponta a ponta · Arquitetura Medalhão</center>
 </p>
 
 <p align="center">
@@ -12,8 +11,10 @@
   </a>
 </p>
 
-## Sobre 
 ---
+
+## Sobre
+
 Sou Analista de Dados e Jurimetrista com foco na construção de soluções preditivas e otimização de infraestruturas de dados. Minha atuação combina Ciência de Dados, Engenharia e Business Intelligence para transformar grandes volumes de informação em ativos estratégicos e redução de passivos financeiros.
 
 **Especialidades Técnicas:**
@@ -26,11 +27,13 @@ Sou Analista de Dados e Jurimetrista com foco na construção de soluções pred
 
 **Metodologias e Infraestrutura:** Gestão de projetos sob o framework Scrum e experiência com arquitetura em nuvem e fundamentos de computação em nuvem.
 
-Objetivo:
+**Objetivo:**
 Conectar tecnologia de ponta e rigor estatístico para resolver problemas complexos de negócio, garantindo a integridade dos dados e a geração de valor mensurável.
+
 ---
 
-### Áreas de Interesse
+## Áreas de Interesse
+
 - Análise de Dados
 - Engenharia de Dados
 - Bancos de Dados
@@ -38,7 +41,7 @@ Conectar tecnologia de ponta e rigor estatístico para resolver problemas comple
 
 ---
 
-### Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -66,10 +69,13 @@ Conectar tecnologia de ponta e rigor estatístico para resolver problemas comple
 
 ## Projetos em Destaque
 
-## **Projeto "Acessibilidade nos Cinemas Brasileiros" em Power BI** (finalizado) ##
+---
+
+### Projeto "Acessibilidade nos Cinemas Brasileiros" — Power BI
+
 Projeto de Análise Descritiva de Dados utilizando a Ferramenta Power BI da Microsoft sobre o atual cenário da acessibilidade física dos Cinemas Brasileiros. Compreende Extração, limpeza e modelagem de dados disponibilizados pela Agência Nacional do Cinema (ANCINE), uso de fórmulas DAX, visualização de dados por meio de cards, gráficos e Mapas para obter indicadores e Insights.
 
-***Competências Desenvolvidas***:
+**Competências Desenvolvidas:**
 
 - Definição e entendimento do problema de análise
 - Exploração e limpeza de dados com Power Query
@@ -78,10 +84,10 @@ Projeto de Análise Descritiva de Dados utilizando a Ferramenta Power BI da Micr
 - Interpretação e storytelling com dados
 - Documentação clara do processo analítico
 - Publicação do relatório no Power BI
-  
+
 **Link:** https://github.com/joaohppenha/projeto_acessibilidade_nos_cinemas
 
-----
+---
 
 ### Pipeline Medalhão — Acidentes de Trânsito PRF 2025
 
@@ -93,13 +99,16 @@ Pipeline completo de dados públicos da PRF com **arquitetura Medalhão (Bronze 
 
 `PySpark` `Delta Lake` `Databricks` `Arquitetura Medalhão` `ETL` `Python` `SQL` `Big Data` `Data Engineering`
 
-***Link:*** https://github.com/joaohppenha/projeto-acidentes-prf
+**Link:** https://github.com/joaohppenha/projeto-acidentes-prf
+
 ---
 
-## Projeto "Financeira": 
+### Projeto "Financeira"
+
 Projeto completo de um sistema de empréstimo consignado utilizando bancos NoSQL (MongoDB, Redis e Cassandra). Inclui modelagem, CRUD, consultas avançadas, cache, otimizações de performance e execução via Docker, tudo documentado em notebooks Jupyter.
 
-## Competências Desenvolvidas
+**Competências Desenvolvidas:**
+
 - Modelagem NoSQL (MongoDB, Cassandra)
 - CRUD e operações avançadas em bancos NoSQL
 - Consultas com agregações e índices (MongoDB)
@@ -109,65 +118,61 @@ Projeto completo de um sistema de empréstimo consignado utilizando bancos NoSQL
 - Documentação técnica com Jupyter Notebooks
 - Boas práticas de engenharia de dados
 
-**Link**: https://github.com/joaohppenha/projeto-banco-de-emprestimo-consignado
+**Link:** https://github.com/joaohppenha/projeto-banco-de-emprestimo-consignado
 
 ---
-# Projeto: Shadow Tax Ledger
-# Engenharia de Dados e Compliance
 
-## Descricao
-Desenvolvimento de um pipeline de dados orientado a eventos (event-driven) para espelhamento tributario em tempo real, simulando o impacto da Reforma Tributaria Brasileira (IBS/CBS) via Shadow Accounting.
+### Projeto: Shadow Tax Ledger — Engenharia de Dados e Compliance
 
-## Especificacoes Tecnicas
+**Descrição:**
+Desenvolvimento de um pipeline de dados orientado a eventos (event-driven) para espelhamento tributário em tempo real, simulando o impacto da Reforma Tributária Brasileira (IBS/CBS) via Shadow Accounting.
 
-### Orquestracao e Mensageria
-* Apache Airflow 3.1.8: Implementacao de fluxos automatizados e execucao de DAGs.
-* Amazon SQS: Processamento assincrono de NF-es sinteticas (Pydantic/Faker) com rastreabilidade total de execucao.
+**Especificações Técnicas:**
 
-### Arquitetura Cloud e Storage
-* Amazon S3: Estruturacao de Data Lake para armazenamento de dados brutos e processados.
-* AWS Glue Catalog: Catalogacao de metadados e esquema de dados.
-* Apache Parquet: Particionamento de arquivos para otimizacao de custos e performance de consulta.
-* Amazon Athena: Motor de consulta SQL ad-hoc sobre o Data Lake.
+**Orquestração e Mensageria:**
+- Apache Airflow 3.1.8: Implementação de fluxos automatizados e execução de DAGs.
+- Amazon SQS: Processamento assíncrono de NF-es sintéticas (Pydantic/Faker) com rastreabilidade total de execução.
 
-### Motor Tributario e IA
-* Analise Comparativa: Desenvolvimento de logica complexa para calculo de carga tributaria (Modelo Atual vs. LC 214/2025) por NCM.
-* Integracao Legislativa: Monitoramento de status legislativo via API do Senado para atualizacao de regras de negocio.
+**Arquitetura Cloud e Storage:**
+- Amazon S3: Estruturação de Data Lake para armazenamento de dados brutos e processados.
+- AWS Glue Catalog: Catalogação de metadados e esquema de dados.
+- Apache Parquet: Particionamento de arquivos para otimização de custos e performance de consulta.
+- Amazon Athena: Motor de consulta SQL ad-hoc sobre o Data Lake.
 
-### Visualizacao Estrategica
-* Streamlit: Interface de visualizacao com atualizacao em tempo real (intervalos de 30s).
-* Foco Executivo: Dashboard voltado para CFO e gestao fiscal, expondo KPIs de delta tributario e riscos de precificacao.
+**Motor Tributário e IA:**
+- Análise Comparativa: Desenvolvimento de lógica complexa para cálculo de carga tributária (Modelo Atual vs. LC 214/2025) por NCM.
+- Integração Legislativa: Monitoramento de status legislativo via API do Senado para atualização de regras de negócio.
 
-* Link: https://github.com/joaohppenha/shadow-tax-ledger
+**Visualização Estratégica:**
+- Streamlit: Interface de visualização com atualização em tempo real (intervalos de 30s).
+- Foco Executivo: Dashboard voltado para CFO e gestão fiscal, expondo KPIs de delta tributário e riscos de precificação.
+
+**Link:** https://github.com/joaohppenha/shadow-tax-ledger
+
 ---
-### **Projeto "Jurimetria Preditiva e Provisão Financeira"** (Finalizado)
+
+### Projeto "Jurimetria Preditiva e Provisão Financeira"
 
 Projeto de Ciência de Dados aplicada ao Direito para análise de tendências judiciais e otimização de fluxo de caixa. O sistema realiza o processamento de grandes volumes de dados processuais para prever desfechos e calcular o provisionamento financeiro necessário, mitigando riscos operacionais e estratégicos.
 
 **Competências Desenvolvidas:**
 
--   **Modelagem Preditiva:** Implementação de algoritmos de Machine Learning (Random Forest) para predição de êxito e risco.
-    
--   **Pipeline de Dados (ETL):** Extração e higienização de dados de múltiplas fontes (SQL, NoSQL, APIs e Web Scraping).
-    
--   **Análise Estatística:** Aplicação de métodos estocásticos para identificação de padrões em decisões judiciais.
-    
--   **Business Intelligence:** Desenvolvimento de dashboards no Power BI para monitoramento de KPIs jurídicos e financeiros.
-    
--   **Otimização de Performance:** Estruturação de queries complexas para redução de tempo de resposta em grandes datasets.
-    
--   **Impacto no Negócio:** Tradução de dados brutos em insights que geraram aumento de até 50% na eficiência da gestão de processos.
-    
+- **Modelagem Preditiva:** Implementação de algoritmos de Machine Learning (Random Forest) para predição de êxito e risco.
+- **Pipeline de Dados (ETL):** Extração e higienização de dados de múltiplas fontes (SQL, NoSQL, APIs e Web Scraping).
+- **Análise Estatística:** Aplicação de métodos estocásticos para identificação de padrões em decisões judiciais.
+- **Business Intelligence:** Desenvolvimento de dashboards no Power BI para monitoramento de KPIs jurídicos e financeiros.
+- **Otimização de Performance:** Estruturação de queries complexas para redução de tempo de resposta em grandes datasets.
+- **Impacto no Negócio:** Tradução de dados brutos em insights que geraram aumento de até 50% na eficiência da gestão de processos.
 
-**Link:** [https://github.com/joaohppenha/jurimetria_preditiva](https://github.com/joaohppenha/jurimetria_preditiva)
+**Link:** https://github.com/joaohppenha/jurimetria_preditiva
 
 ---
 
-## **Projeto Jurisconsulto em SQL e PythonProjeto Jurisconsulto em SQL e Python**: 
+### Projeto Jurisconsulto — SQL e Python
 
 Projeto de implementação, modelagem e de consulta de um Banco de Dados Relacional de um escritório de advocacia com a ferramenta MYSQL e Linguagem SQL. Criação do aplicativo de Gestão jurídica Jurisconsulto: em linguagem Python de uma aplicação com fim de simplificação na inserção e visualização de Dados para usuários sem conhecimento da linguagem SQL e automação de Preâmbulo de Petições Iniciais.
 
-### Competências Desenvolvidas
+**Competências Desenvolvidas:**
 
 - Modelagem de banco de dados relacional para gestão de clientes e processos
 - Criação e execução de SQL para manipulação e consulta de dados
@@ -179,85 +184,93 @@ Projeto de implementação, modelagem e de consulta de um Banco de Dados Relacio
 - Documentação clara e instruções de instalação
 - Organização lógica de scripts e componentes do projeto
 
+**Link:** https://github.com/joaohppenha/projeto-jurisconsulto
 
-**Link:**https://github.com/joaohppenha/projeto-jurisconsulto
+---
 
-
-## **Projeto STF**: 
+### Projeto STF
 
 Projeto em Python de Extração, Transformação, limpeza, modelagem e visualização de dados. Explora as possibilidades da linguagem Python como ferramenta de análise de dados a partir de uma planilha de Dados Públicos do Supremo Tribunal Federal.
 
-### Competências Desenvolvidas
-- Extração de dados a partir de fontes externas (planilhas Excel) utilizando Python  
-- Limpeza, padronização e transformação de dados para análise  
-- Preparação de datasets estruturados para consumo analítico  
-- Implementação de pipeline ETL (Extração, Transformação e Carregamento)  
-- Conversão de dados brutos em dados prontos para análise  
-- Geração e persistência de arquivos intermediários para rastreabilidade  
-- Desenvolvimento de scripts Python para automação de processos de dados  
-- Organização da lógica em funções reutilizáveis  
-- Manipulação programática de tabelas e arquivos  
-- Exploração inicial de padrões e características dos dados  
-- Preparação de dados para análises estatísticas e visualizações  
-- Organização de informações para posterior interpretação e storytelling  
-- Estruturação de diretórios para scripts, dados e outputs  
-- Documentação clara das etapas do projeto no repositório  
-- Versionamento de código utilizando Git  
-- Controle de histórico de alterações por meio de commits incrementais  
-- Escrita de mensagens de commit claras e descritivas  
-- Organização do desenvolvimento em etapas versionadas  
-- Sincronização de repositório local com GitHub  
+**Competências Desenvolvidas:**
+
+- Extração de dados a partir de fontes externas (planilhas Excel) utilizando Python
+- Limpeza, padronização e transformação de dados para análise
+- Preparação de datasets estruturados para consumo analítico
+- Implementação de pipeline ETL (Extração, Transformação e Carregamento)
+- Conversão de dados brutos em dados prontos para análise
+- Geração e persistência de arquivos intermediários para rastreabilidade
+- Desenvolvimento de scripts Python para automação de processos de dados
+- Organização da lógica em funções reutilizáveis
+- Manipulação programática de tabelas e arquivos
+- Exploração inicial de padrões e características dos dados
+- Preparação de dados para análises estatísticas e visualizações
+- Organização de informações para posterior interpretação e storytelling
+- Estruturação de diretórios para scripts, dados e outputs
+- Documentação clara das etapas do projeto no repositório
+- Versionamento de código utilizando Git
+- Controle de histórico de alterações por meio de commits incrementais
+- Escrita de mensagens de commit claras e descritivas
+- Organização do desenvolvimento em etapas versionadas
+- Sincronização de repositório local com GitHub
 - Aplicação de boas práticas de versionamento em projetos de dados
-  
-**Link**:https://github.com/joaohppenha/projeto-STF
+
+**Link:** https://github.com/joaohppenha/projeto-STF
 
 ---
 
 ## Coleção Fundamentos
-Coleção de Projetos de aplicação prática de Fundamentos em Linguagens e Ferramentas
 
-### Fundamentos SQL: Estudos de fundamentos da linguagem SQL a partir de um cadastro de alunos
+Coleção de Projetos de aplicação prática de Fundamentos em Linguagens e Ferramentas.
 
-### Competências Desenvolvidas
+---
 
-- Modelagem e definição de esquemas de banco de dados SQL (DDL: criação, alteração e exclusão de tabelas)  
-- Manipulação de dados com comandos SQL (DML: INSERT, UPDATE, DELETE, TRUNCATE)  
-- Extração e análise de dados com consultas SQL (DQL: SELECT com filtros, agregações e JOINs)  
-- Controle de transações e integridade com comandos DTL (BEGIN TRANSACTION, COMMIT, ROLLBACK)  
-- Controle de acesso e governança de dados com DCL (GRANT e REVOKE)  
-- Escrita de consultas complexas para análise e insight sobre dados   
-- Utilização do **BigQuery** como ambiente de execução de banco de dados na nuvem  
-- Compreensão de conceitos de atomicidade, consistência, isolamento e durabilidade em SQL  
-- Estruturação de datasets para organização lógica dos dados  
-- Versionamento de scripts e organização do projeto com **Git**  
-- Controle de histórico de alterações e commits incrementais  
-- Publicação e sincronização do repositório com **GitHub**  
+### Fundamentos SQL
+
+Estudos de fundamentos da linguagem SQL a partir de um cadastro de alunos.
+
+**Competências Desenvolvidas:**
+
+- Modelagem e definição de esquemas de banco de dados SQL (DDL: criação, alteração e exclusão de tabelas)
+- Manipulação de dados com comandos SQL (DML: INSERT, UPDATE, DELETE, TRUNCATE)
+- Extração e análise de dados com consultas SQL (DQL: SELECT com filtros, agregações e JOINs)
+- Controle de transações e integridade com comandos DTL (BEGIN TRANSACTION, COMMIT, ROLLBACK)
+- Controle de acesso e governança de dados com DCL (GRANT e REVOKE)
+- Escrita de consultas complexas para análise e insight sobre dados
+- Utilização do **BigQuery** como ambiente de execução de banco de dados na nuvem
+- Compreensão de conceitos de atomicidade, consistência, isolamento e durabilidade em SQL
+- Estruturação de datasets para organização lógica dos dados
+- Versionamento de scripts e organização do projeto com **Git**
+- Controle de histórico de alterações e commits incrementais
+- Publicação e sincronização do repositório com **GitHub**
 - Boas práticas de versionamento aplicadas a mudanças em scripts SQL
 
-**Link**:https://github.com/joaohppenha/fundamentos-sql
+**Link:** https://github.com/joaohppenha/fundamentos-sql
 
-### Fundamentos Python: 5 Projetos, cada um que desenvolve um fundamento básico diferente da linguagem Python
+---
 
-### Competências Desenvolvidas
+### Fundamentos Python
 
-- Compreensão e aplicação de **variáveis e operadores** em Python  
-- Controle de fluxo com **estruturas condicionais (`if`, `else`)** e **loops (`while`, `for`)**  
-- Manipulação de **listas e dicionários** para organizar e acessar coleções de dados  
-- Criação e uso de **funções** para modularização e reutilização de código  
-- Tratamento de **entrada e saída de dados** (input/output) de forma interativa  
-- Gerenciamento de **arquivos** (leitura, escrita e persistência de dados)  
-- Tratamento de **exceções (erros)** para tornar o código mais robusto  
-- Automação de pequenos programas resolvendo problemas concretos  
-- Estruturação de lógica de programa para diversas aplicações do cotidiano  
-- Versionamento de código com **Git**  
-- Controle de histórico e commits incrementais para organização do desenvolvimento  
-- Publicação e sincronização do projeto com **GitHub**  
-- Desenvolvimento e teste de código em ambiente interativo (**Jupyter Notebook / JupyterLab**)  
-- Execução e validação de scripts em **terminal Linux**  
+5 Projetos, cada um que desenvolve um fundamento básico diferente da linguagem Python.
 
+**Competências Desenvolvidas:**
 
-**Link**:https://github.com/joaohppenha/fundamentos-python
+- Compreensão e aplicação de **variáveis e operadores** em Python
+- Controle de fluxo com **estruturas condicionais (`if`, `else`)** e **loops (`while`, `for`)**
+- Manipulação de **listas e dicionários** para organizar e acessar coleções de dados
+- Criação e uso de **funções** para modularização e reutilização de código
+- Tratamento de **entrada e saída de dados** (input/output) de forma interativa
+- Gerenciamento de **arquivos** (leitura, escrita e persistência de dados)
+- Tratamento de **exceções (erros)** para tornar o código mais robusto
+- Automação de pequenos programas resolvendo problemas concretos
+- Estruturação de lógica de programa para diversas aplicações do cotidiano
+- Versionamento de código com **Git**
+- Controle de histórico e commits incrementais para organização do desenvolvimento
+- Publicação e sincronização do projeto com **GitHub**
+- Desenvolvimento e teste de código em ambiente interativo (**Jupyter Notebook / JupyterLab**)
+- Execução e validação de scripts em **terminal Linux**
 
+**Link:** https://github.com/joaohppenha/fundamentos-python
 
 ---
 
@@ -268,7 +281,7 @@ Coleção de Projetos de aplicação prática de Fundamentos em Linguagens e Fer
 - ⚖️ Jurimetria · Legal Analytics · Dados Jurídicos
 - 🗄️ Bancos de Dados SQL e NoSQL · Data Modeling
 - 📈 Business Intelligence · Dashboards · Data Storytelling
-- ☁️ Cloud Data Platforms · Databricks · BigQuery
+- ☁️ Cloud Data Platforms · Databricks · BigQuery · AWS · Azure
 
 ---
 
@@ -278,6 +291,8 @@ Coleção de Projetos de aplicação prática de Fundamentos em Linguagens e Fer
   <i>Conectando tecnologia de ponta e rigor estatístico para resolver problemas complexos de negócio.</i>
 </p>
 
+---
 
 ## Contato
-**Linkedin**: https://www.linkedin.com/in/jhppenha/
+
+**LinkedIn:** https://www.linkedin.com/in/jhppenha/
