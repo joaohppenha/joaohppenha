@@ -112,6 +112,34 @@ Projeto completo de um sistema de empréstimo consignado utilizando bancos NoSQL
 **Link**: https://github.com/joaohppenha/projeto-banco-de-emprestimo-consignado
 
 ---
+# Projeto: Shadow Tax Ledger
+# Engenharia de Dados e Compliance
+
+## Descricao
+Desenvolvimento de um pipeline de dados orientado a eventos (event-driven) para espelhamento tributario em tempo real, simulando o impacto da Reforma Tributaria Brasileira (IBS/CBS) via Shadow Accounting.
+
+## Especificacoes Tecnicas
+
+### Orquestracao e Mensageria
+* Apache Airflow 3.1.8: Implementacao de fluxos automatizados e execucao de DAGs.
+* Amazon SQS: Processamento assincrono de NF-es sinteticas (Pydantic/Faker) com rastreabilidade total de execucao.
+
+### Arquitetura Cloud e Storage
+* Amazon S3: Estruturacao de Data Lake para armazenamento de dados brutos e processados.
+* AWS Glue Catalog: Catalogacao de metadados e esquema de dados.
+* Apache Parquet: Particionamento de arquivos para otimizacao de custos e performance de consulta.
+* Amazon Athena: Motor de consulta SQL ad-hoc sobre o Data Lake.
+
+### Motor Tributario e IA
+* Analise Comparativa: Desenvolvimento de logica complexa para calculo de carga tributaria (Modelo Atual vs. LC 214/2025) por NCM.
+* Integracao Legislativa: Monitoramento de status legislativo via API do Senado para atualizacao de regras de negocio.
+
+### Visualizacao Estrategica
+* Streamlit: Interface de visualizacao com atualizacao em tempo real (intervalos de 30s).
+* Foco Executivo: Dashboard voltado para CFO e gestao fiscal, expondo KPIs de delta tributario e riscos de precificacao.
+
+* Link: https://github.com/joaohppenha/shadow-tax-ledger
+---
 ### **Projeto "Jurimetria Preditiva e Provisão Financeira"** (Finalizado)
 
 Projeto de Ciência de Dados aplicada ao Direito para análise de tendências judiciais e otimização de fluxo de caixa. O sistema realiza o processamento de grandes volumes de dados processuais para prever desfechos e calcular o provisionamento financeiro necessário, mitigando riscos operacionais e estratégicos.
