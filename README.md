@@ -89,6 +89,34 @@ Pipeline completo de dados públicos da PRF com **arquitetura Medalhão (Bronze 
 
 ---
 
+### DJE-TJSP Scraper & Search Engine — Legal Analytics & Full-Text Search
+
+> *Pipeline de dados jurídicos com OpenSearch e Streamlit para busca em Diários Oficiais*
+
+Solução de Legal Analytics para automação de extração do Diário da Justiça Eletrônico do TJSP. Realiza raspagem, parsing de PDF/HTML e indexação em cluster OpenSearch com busca textual completa (Full-Text Search), entregando interface analítica em Streamlit para consultas jurídicas avançadas.
+
+**Destaques técnicos:** OpenSearch, Streamlit, Web Scraping, PDF Parsing, Full-Text Search, Python, Legal Analytics.
+
+`Python` `OpenSearch` `Streamlit` `Web Scraping` `Full-Text Search` `Legal Analytics` `ETL`
+
+**Link:** https://github.com/joaohppenha/do-tjsp-scraper
+
+---
+
+### FlyRank Auth API — Supabase & FastAPI
+
+> *RESTful API segura com autenticação JWT e injeção de dependências*
+
+API backend robusta desenvolvida em FastAPI integrada ao Supabase Auth como Identity Provider. Implementa o ciclo completo de autenticação (signup, login, logout), rotas protegidas via injeção de dependências (`HTTPBearer`) e documentação interativa OpenAPI/Swagger UI.
+
+**Destaques técnicos:** FastAPI, Supabase Auth, JWT Bearer Token, Pydantic, Swagger UI, python-dotenv.
+
+`FastAPI` `Supabase` `JWT` `Python` `Pydantic` `REST API` `Backend` `Authentication`
+
+**Link:** https://github.com/joaohppenha/flyrank-auth-a4
+
+---
+
 ### Projeto: Shadow Tax Ledger — Engenharia de Dados e Compliance
 
 Pipeline de dados orientado a eventos para espelhamento tributário em tempo real, simulando o impacto da Reforma Tributária Brasileira (IBS/CBS) via Shadow Accounting.
@@ -98,6 +126,26 @@ Pipeline de dados orientado a eventos para espelhamento tributário em tempo rea
 `Airflow` `AWS` `SQS` `S3` `Athena` `Streamlit` `Parquet` `Python` `Compliance` `Data Engineering`
 
 **Link:** https://github.com/joaohppenha/shadow-tax-ledger
+
+---
+
+### Task Management API — FastAPI & Async Engine
+
+API RESTful concorrente para gerenciamento de tarefas em FastAPI com validação estrita via Pydantic, respostas parametrizadas e documentação OpenAPI.
+
+`FastAPI` `Python` `Pydantic` `Uvicorn` `REST API` `Backend`
+
+**Link:** https://github.com/joaohppenha/task-api-fastapi
+
+---
+
+### Task Management API — SQLite & Python Pure Backend
+
+API backend para gestão de tarefas utilizando Python e persistência relacional com SQLite, aplicando padrões de modelagem de dados e arquitetura de software limpa.
+
+`Python` `SQLite` `SQL` `REST API` `Database` `Backend`
+
+**Link:** https://github.com/joaohppenha/task-api-sqlite
 
 ---
 
@@ -244,6 +292,34 @@ Complete pipeline for public PRF data using **Medallion Architecture (Bronze →
 
 ---
 
+### DJE-TJSP Scraper & Search Engine — Legal Analytics & Full-Text Search
+
+> *Legal data pipeline with OpenSearch and Streamlit for Official Gazette search*
+
+Legal Analytics solution for automated extraction from TJSP Electronic Gazette. Features web scraping, PDF/HTML parsing, and indexing into an OpenSearch cluster with Full-Text Search, served through an interactive Streamlit UI for advanced legal research.
+
+**Technical highlights:** OpenSearch, Streamlit, Web Scraping, PDF Parsing, Full-Text Search, Python, Legal Analytics.
+
+`Python` `OpenSearch` `Streamlit` `Web Scraping` `Full-Text Search` `Legal Analytics` `ETL`
+
+**Link:** https://github.com/joaohppenha/do-tjsp-scraper
+
+---
+
+### FlyRank Auth API — Supabase & FastAPI
+
+> *Secure RESTful API with JWT Authentication and Dependency Injection*
+
+Robust backend API built with FastAPI integrated with Supabase Auth as Identity Provider. Implements full user authentication lifecycles (signup, login, logout), protected endpoints via dependency injection (`HTTPBearer`), and interactive OpenAPI/Swagger UI documentation.
+
+**Technical highlights:** FastAPI, Supabase Auth, JWT Bearer Token, Pydantic, Swagger UI, python-dotenv.
+
+`FastAPI` `Supabase` `JWT` `Python` `Pydantic` `REST API` `Backend` `Authentication`
+
+**Link:** https://github.com/joaohppenha/flyrank-auth-a4
+
+---
+
 ### Shadow Tax Ledger — Data Engineering & Compliance
 
 Event-driven data pipeline for real-time tax mirroring, simulating the impact of Brazil's Tax Reform (IBS/CBS) via Shadow Accounting.
@@ -253,6 +329,26 @@ Event-driven data pipeline for real-time tax mirroring, simulating the impact of
 `Airflow` `AWS` `SQS` `S3` `Athena` `Streamlit` `Parquet` `Python` `Compliance` `Data Engineering`
 
 **Link:** https://github.com/joaohppenha/shadow-tax-ledger
+
+---
+
+### Task Management API — FastAPI & Async Engine
+
+Concurrent RESTful API for task management built with FastAPI featuring strict Pydantic validation, parameterized responses, and OpenAPI documentation.
+
+`FastAPI` `Python` `Pydantic` `Uvicorn` `REST API` `Backend`
+
+**Link:** https://github.com/joaohppenha/task-api-fastapi
+
+---
+
+### Task Management API — SQLite & Python Pure Backend
+
+Backend API for task management utilizing Python and relational persistence with SQLite, applying data modeling best practices and clean software architecture.
+
+`Python` `SQLite` `SQL` `REST API` `Database` `Backend`
+
+**Link:** https://github.com/joaohppenha/task-api-sqlite
 
 ---
 
@@ -326,7 +422,7 @@ Python ETL pipeline on public data from Brazil's Supreme Court: extraction from 
 
 ---
 
-<!-- ATS Keywords: Engenheiro de Dados, Analista de Dados, Data Engineer, Data Analyst, Data Scientist, Python, PySpark, SQL, ETL, ELT, Pipeline de Dados, Arquitetura Medalhão, Medallion Architecture, Delta Lake, Databricks, Apache Spark, Big Data, Machine Learning, Scikit-learn, Random Forest, Power BI, Tableau, Streamlit, PostgreSQL, MySQL, MongoDB, Redis, Cassandra, NoSQL, Docker, Git, BigQuery, Business Intelligence, KPI, Data Modeling, Data Pipeline, Jurimetria, Jurimetrics, Legal Tech, Dados Abertos, Visualização de Dados -->
+<!-- ATS Keywords: Engenheiro de Dados, Analista de Dados, Data Engineer, Data Analyst, Data Scientist, Python, PySpark, SQL, ETL, ELT, Pipeline de Dados, Arquitetura Medalhão, Medallion Architecture, Delta Lake, Databricks, Apache Spark, Big Data, Machine Learning, Scikit-learn, Random Forest, Power BI, Tableau, Streamlit, PostgreSQL, MySQL, MongoDB, Redis, Cassandra, NoSQL, Docker, Git, BigQuery, Business Intelligence, KPI, Data Modeling, Data Pipeline, Jurimetria, Jurimetrics, Legal Tech, Dados Abertos, Visualização de Dados, OpenSearch, FastAPI, Supabase, JWT, Full-Text Search -->
 
 <p align="center">
   <i>PT: Conectando tecnologia de ponta e rigor estatístico para resolver problemas complexos de negócio.</i><br/>
