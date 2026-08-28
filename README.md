@@ -1,10 +1,10 @@
 <h1 align="center">Olá, eu sou João Henrique 👋 · Hi, I'm João Henrique 👋</h1>
 
 <p align="center">
-  <b>PT: Analista de Dados e Negócios Jurídicos · Jurimetrista</b><br/>
-  <b>EN: Data & Legal Business Analyst · Jurimetrics Specialist</b><br/>
+  <b>PT: Engenheiro de Backend & IA · Jurimetrista · Pesquisador na Cohere Open Labs</b><br/>
+  <b>EN: Backend & AI Engineer · Jurimetrics Specialist · Cohere Open Labs Researcher</b><br/>
   <br/>
-  Dashboards · Machine Learning · Business Intelligence · End-to-end Data Pipelines · Medallion Architecture
+  LLMs & Structured Outputs · Distributed Data Pipelines · Medallion Architecture · Data Governance & Audit
 </p>
 
 <p align="center">
@@ -21,55 +21,51 @@
 
 ## Sobre
 
-Sou Analista de Dados e Jurimetrista com foco na construção de soluções preditivas e otimização de infraestruturas de dados. Minha atuação combina Ciência de Dados, Engenharia e Business Intelligence para transformar grandes volumes de informação em ativos estratégicos e redução de passivos financeiros.
+Transformo infraestruturas de dados complexas em sistemas inteligentes através da união entre **Engenharia de Backend**, **IA Generativa** e **Governança de Dados**. Com uma trajetória sólida de mais de 10 anos na intersecção entre tecnologia e o setor jurídico, sou especialista em Jurimetria e atuo em todo o ciclo de vida do dado: desde a construção de pipelines distribuídos escaláveis até o design de arquiteturas de IA integradas a regras de negócio e conformidade.
 
-**Especialidades Técnicas:**
+Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas (ADS) e divido minha atuação técnica em três frentes de alto impacto:
 
-**Data Science e Jurimetria:** Modelagem estocástica com Random Forest para predição de risco e provisionamento dinâmico de processos judiciais.
-
-**Engenharia de Dados:** Desenvolvimento de pipelines, Databricks, Cloud, orquestração no Apache Airflow, processamento em Spark, ETL e gestão de bancos de dados SQL e NoSQL (Redis, Cassandra, MongoDB), com foco em escalabilidade e baixa latência.
-
-**Business Intelligence:** Criação de dashboards executivos em Streamlit e Power BI para monitoramento de KPIs e suporte à tomada de decisão.
-
-**Metodologias e Infraestrutura:** Gestão de projetos sob o framework Scrum e experiência com arquitetura em nuvem e fundamentos de computação em nuvem.
-
-**Objetivo:**
-Conectar tecnologia de ponta e rigor estatístico para resolver problemas complexos de negócio, garantindo a integridade dos dados e a geração de valor mensurável.
+- **Engenharia de Backend & IA na FlyRank:** Desenvolvimento de infraestrutura de microsserviços, contratos de APIs estáveis e fluxos de IA baseados em recuperação (RAG) e saídas estruturadas (*structured outputs*).
+- **Pesquisa Avançada na Cohere Open Labs:** Membro aprovado no ecossistema global de ciência aberta da Cohere, focado nas fronteiras de Large Language Models (LLMs), Processamento de Linguagem Natural (NLP) e computação quântica.
+- **Governança & Auditoria de Dados no TCU:** Auditor de Dados Voluntário na Força-Tarefa Cidadã do Tribunal de Contas da União (TCU/OSB), atuando na auditoria de qualidade de dados (*Data Quality*), rastreabilidade (*Data Lineage*) e conformidade com a Lei de Acesso à Informação (LAI).
 
 ---
 
-## Áreas de Interesse
+## Dominio Técnico & Infraestrutura
 
-- Análise de Dados
-- Engenharia de Dados
-- Bancos de Dados
-- Ciência de Dados
+**Data Engineering & Platform:** Domínio de PySpark e Delta Lake em ambiente Databricks para processamento distribuído. Construção e orquestração de pipelines ponta a ponta sob a Arquitetura Medalhão (Bronze, Silver, Gold).
+
+**AI, NLP & Backend:** Desenvolvimento em Python para microsserviços, APIs RESTful com FastAPI, automações complexas e integração avançada de LLMs, agentes inteligentes, Pydantic, RAG e Machine Learning (Scikit-learn, Pandas, NumPy).
+
+**Databases & Storage:** Experiência avançada em ecossistemas SQL (PostgreSQL, SQL Server, MySQL, BigQuery e Databricks SQL), modelagem dimensional e vivência com bancos NoSQL e Cache (MongoDB, Redis, Cassandra).
+
+**Visual Analytics & Observabilidade:** Criação de aplicações analíticas interativas em Streamlit, dashboards no Databricks SQL e Power BI para suporte direto à tomada de decisão executiva.
 
 ---
 
 ## Tecnologias & Ferramentas
 
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Power%20Query](https://img.shields.io/badge/Power%20Query-742774?style=flat&logo=microsoft&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -220,14 +216,14 @@ Pipeline ETL em Python sobre dados públicos do Supremo Tribunal Federal: extra�
 
 ---
 
-## 📌 Áreas de Interesse
+## 📌 Áreas de Atuação & Interesse
 
-- ⚙️ Engenharia de Dados · Pipelines ETL/ELT · Arquitetura de Dados
-- 📊 Análise de Dados · Ciência de Dados · Machine Learning
-- ⚖️ Jurimetria · Legal Analytics · Dados Jurídicos
-- 🗄️ Bancos de Dados SQL e NoSQL · Data Modeling
-- 📈 Business Intelligence · Dashboards · Data Storytelling
-- ☁️ Cloud Data Platforms · Databricks · BigQuery · AWS · Azure
+- ⚙️ Backend Engineering · Microservices · API Design · FastAPI
+- 🤖 Generative AI · RAG · Structured Outputs · Prompt Engineering
+- ⚙️ Data Engineering · Distributed Pipelines · Medallion Architecture
+- ⚖️ Jurimetria · Legal Analytics · Data Governance & Audit (TCU)
+- 🗄️ SQL & NoSQL Databases · Vector Stores · Data Modeling
+- ☁️ Cloud Data Platforms · Databricks · BigQuery · AWS
 
 </details>
 
@@ -238,55 +234,51 @@ Pipeline ETL em Python sobre dados públicos do Supremo Tribunal Federal: extra�
 
 ## About
 
-I'm a Data Analyst and Jurimetrics Specialist focused on building predictive solutions and optimizing data infrastructure. My work combines Data Science, Engineering, and Business Intelligence to transform large volumes of information into strategic assets and reduce financial liabilities.
+I transform complex data infrastructures into intelligent systems by bridging **Backend Engineering**, **Generative AI**, and **Data Governance**. With over 10 years of experience at the intersection of technology and the legal domain, I specialize in Jurimetrics and operate across the entire data lifecycle: from building scalable distributed pipelines to designing AI architectures aligned with business rules and compliance.
 
-**Technical Expertise:**
+Currently pursuing a degree in Systems Analysis and Development (ADS), my technical work spans three high-impact fronts:
 
-**Data Science & Jurimetrics:** Stochastic modeling with Random Forest for risk prediction and dynamic financial provisioning of legal cases.
-
-**Data Engineering:** Pipeline development, Databricks, Cloud, Apache Airflow orchestration, Spark processing, ETL, and SQL/NoSQL database management (Redis, Cassandra, MongoDB), with a focus on scalability and low latency.
-
-**Business Intelligence:** Executive dashboards in Streamlit and Power BI for KPI monitoring and decision support.
-
-**Methodologies & Infrastructure:** Project management under the Scrum framework, cloud architecture, and cloud computing fundamentals.
-
-**Objective:**
-Connecting cutting-edge technology and statistical rigor to solve complex business problems, ensuring data integrity and measurable value generation.
+- **Backend & AI Engineering at FlyRank:** Developing microservice infrastructure, stable API contracts, and AI workflows based on Retrieval-Augmented Generation (RAG) and structured outputs.
+- **Advanced Research at Cohere Open Labs:** Accepted member of Cohere's global open-science ecosystem, focusing on the frontiers of Large Language Models (LLMs), Natural Language Processing (NLP), and quantum computing.
+- **Data Governance & Audit at TCU:** Volunteer Data Auditor at the Citizen Task Force of the Brazilian Federal Court of Accounts (TCU/OSB), auditing Data Quality, Data Lineage, and compliance with the Access to Information Law (LAI).
 
 ---
 
-## Areas of Interest
+## Technical Expertise & Infrastructure
 
-- Data Analysis
-- Data Engineering
-- Databases
-- Data Science
+**Data Engineering & Platform:** Proficiency in PySpark and Delta Lake on Databricks for distributed data processing. End-to-end pipeline design under Medallion Architecture (Bronze, Silver, Gold).
+
+**AI, NLP & Backend:** Python development for microservices, RESTful APIs with FastAPI, complex automations, and advanced integration of LLMs, intelligent agents, Pydantic, RAG, and Machine Learning tools (Scikit-learn, Pandas, NumPy).
+
+**Databases & Storage:** Advanced expertise across SQL ecosystems (PostgreSQL, SQL Server, MySQL, BigQuery, and Databricks SQL), dimensional modeling, and NoSQL/Caching stores (MongoDB, Redis, Cassandra).
+
+**Visual Analytics & Observability:** Interactive analytical web applications using Streamlit, Databricks SQL dashboards, and Power BI for direct C-level decision support.
 
 ---
 
 ## Technologies & Tools
 
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Power%20Query](https://img.shields.io/badge/Power%20Query-742774?style=flat&logo=microsoft&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -437,24 +429,24 @@ Python ETL pipeline on public data from Brazil's Supreme Court: extraction from 
 
 ---
 
-## 📌 Areas of Interest
+## 📌 Areas of Expertise & Interest
 
-- ⚙️ Data Engineering · ETL/ELT Pipelines · Data Architecture
-- 📊 Data Analysis · Data Science · Machine Learning
-- ⚖️ Jurimetrics · Legal Analytics · Legal Data
-- 🗄️ SQL & NoSQL Databases · Data Modeling
-- 📈 Business Intelligence · Dashboards · Data Storytelling
-- ☁️ Cloud Data Platforms · Databricks · BigQuery · AWS · Azure
+- ⚙️ Backend Engineering · Microservices · API Design · FastAPI
+- 🤖 Generative AI · RAG · Structured Outputs · Prompt Engineering
+- ⚙️ Data Engineering · Distributed Pipelines · Medallion Architecture
+- ⚖️ Jurimetrics · Legal Analytics · Data Governance & Audit (TCU)
+- 🗄️ SQL & NoSQL Databases · Vector Stores · Data Modeling
+- ☁️ Cloud Data Platforms · Databricks · BigQuery · AWS
 
 </details>
 
 ---
 
-<!-- ATS Keywords: Engenheiro de Dados, Analista de Dados, Data Engineer, Data Analyst, Data Scientist, Python, PySpark, SQL, ETL, ELT, Pipeline de Dados, Arquitetura Medalhão, Medallion Architecture, Delta Lake, Databricks, Apache Spark, Big Data, Machine Learning, Scikit-learn, Random Forest, Power BI, Tableau, Streamlit, PostgreSQL, MySQL, MongoDB, Redis, Cassandra, NoSQL, Docker, Git, BigQuery, Business Intelligence, KPI, Data Modeling, Data Pipeline, Jurimetria, Jurimetrics, Legal Tech, Dados Abertos, Visualização de Dados, OpenSearch, FastAPI, Supabase, JWT, Full-Text Search, OpenRouter, LLM, Pydantic, Schema Validation, Prompt Engineering -->
+<!-- ATS Keywords: Backend Engineer, AI Engineer, Data Engineer, Data Analyst, Data Scientist, Python, FastAPI, Pydantic, OpenRouter, OpenAI, PyTorch, Cohere, RAG, Structured Outputs, PySpark, SQL, ETL, ELT, Data Pipeline, Medallion Architecture, Delta Lake, Databricks, Apache Spark, Big Data, Machine Learning, Scikit-learn, Random Forest, Power BI, Streamlit, PostgreSQL, MySQL, MongoDB, Redis, Cassandra, NoSQL, Docker, Git, BigQuery, Data Governance, Data Quality, Data Lineage, TCU, Jurimetria, Jurimetrics, Legal Tech, OpenSearch, Supabase, JWT -->
 
 <p align="center">
-  <i>PT: Conectando tecnologia de ponta e rigor estatístico para resolver problemas complexos de negócio.</i><br/>
-  <i>EN: Connecting cutting-edge technology and statistical rigor to solve complex business problems.</i>
+  <i>PT: Conectando engenharia pesada, IA e governança para resolver problemas complexos de negócio.</i><br/>
+  <i>EN: Connecting heavy engineering, AI, and governance to solve complex business problems.</i>
 </p>
 
 ---
