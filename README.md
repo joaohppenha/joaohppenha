@@ -75,6 +75,20 @@ Conectar tecnologia de ponta e rigor estatístico para resolver problemas comple
 
 ## Projetos em Destaque
 
+### LLM Support Message Enrichment API — FastAPI & OpenRouter
+
+> *API resiliente pronta para produção para classificação e enriquecimento de mensagens via LLM*
+
+API em FastAPI que processa mensagens não estruturadas de suporte SaaS e extrai metadados estruturados validados via Pydantic usando modelos do OpenRouter. Projetada com foco em alta confiabilidade, resiliência e controle operacional em sistemas de produção.
+
+**Destaques técnicos:** Validação estrita de schema Pydantic, autorreparo com 1-shot retry prompt, log de quarentena em JSONL, timeout estrito de 30s, kill switch instantâneo via variável de ambiente, logs estruturados de tokens/custos e suite de testes automatizada atingindo 87.5% de precisão.
+
+`FastAPI` `Python` `OpenRouter` `Pydantic` `LLM` `Prompt Engineering` `Schema Validation` `Backend`
+
+**Link:** https://github.com/joaohppenha/llm-enrichment-api
+
+---
+
 ### Pipeline Medalhão — Acidentes de Trânsito PRF 2025
 
 > *Engenharia de Dados ponta a ponta com arquitetura Medalhão em Databricks*
@@ -278,6 +292,20 @@ Connecting cutting-edge technology and statistical rigor to solve complex busine
 
 ## Featured Projects
 
+### LLM Support Message Enrichment API — FastAPI & OpenRouter
+
+> *Resilient, production-ready API for unstructured message classification and metadata extraction via LLM*
+
+FastAPI endpoint that processes unstructured SaaS support messages and extracts structured metadata validated with Pydantic using OpenRouter LLMs. Built with a strong focus on high reliability, production resiliency, and operational control.
+
+**Technical highlights:** Strict Pydantic schema validation, 1-shot repair retry prompt, JSONL quarantine logging, hard 30s timeout, environment-based kill switch, structured token/cost metrics, and an automated evaluation suite achieving 87.5% accuracy.
+
+`FastAPI` `Python` `OpenRouter` `Pydantic` `LLM` `Prompt Engineering` `Schema Validation` `Backend`
+
+**Link:** https://github.com/joaohppenha/llm-enrichment-api
+
+---
+
 ### Medallion Pipeline — PRF Traffic Accidents 2025
 
 > *End-to-end Data Engineering with Medallion Architecture on Databricks*
@@ -422,7 +450,7 @@ Python ETL pipeline on public data from Brazil's Supreme Court: extraction from 
 
 ---
 
-<!-- ATS Keywords: Engenheiro de Dados, Analista de Dados, Data Engineer, Data Analyst, Data Scientist, Python, PySpark, SQL, ETL, ELT, Pipeline de Dados, Arquitetura Medalhão, Medallion Architecture, Delta Lake, Databricks, Apache Spark, Big Data, Machine Learning, Scikit-learn, Random Forest, Power BI, Tableau, Streamlit, PostgreSQL, MySQL, MongoDB, Redis, Cassandra, NoSQL, Docker, Git, BigQuery, Business Intelligence, KPI, Data Modeling, Data Pipeline, Jurimetria, Jurimetrics, Legal Tech, Dados Abertos, Visualização de Dados, OpenSearch, FastAPI, Supabase, JWT, Full-Text Search -->
+<!-- ATS Keywords: Engenheiro de Dados, Analista de Dados, Data Engineer, Data Analyst, Data Scientist, Python, PySpark, SQL, ETL, ELT, Pipeline de Dados, Arquitetura Medalhão, Medallion Architecture, Delta Lake, Databricks, Apache Spark, Big Data, Machine Learning, Scikit-learn, Random Forest, Power BI, Tableau, Streamlit, PostgreSQL, MySQL, MongoDB, Redis, Cassandra, NoSQL, Docker, Git, BigQuery, Business Intelligence, KPI, Data Modeling, Data Pipeline, Jurimetria, Jurimetrics, Legal Tech, Dados Abertos, Visualização de Dados, OpenSearch, FastAPI, Supabase, JWT, Full-Text Search, OpenRouter, LLM, Pydantic, Schema Validation, Prompt Engineering -->
 
 <p align="center">
   <i>PT: Conectando tecnologia de ponta e rigor estatístico para resolver problemas complexos de negócio.</i><br/>
