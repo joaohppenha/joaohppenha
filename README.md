@@ -137,6 +137,94 @@ Pipeline de dados orientado a eventos para espelhamento tributário em tempo rea
 
 ---
 
+### [Task Management API — FastAPI & Async Engine](https://github.com/joaohppenha/task-api-fastapi)
+
+> *API RESTful concorrente para gerenciamento de tarefas com validação estrita*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+API RESTful concorrente para gerenciamento de tarefas em FastAPI com validação estrita via Pydantic, respostas parametrizadas e documentação OpenAPI.
+
+---
+
+### [Task Management API — SQLite & Pure Backend](https://github.com/joaohppenha/task-api-sqlite)
+
+> *API backend para gestão de tarefas com persistência relacional limpa*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+API backend para gestão de tarefas utilizando Python e persistência relacional com SQLite, aplicando padrões de modelagem de dados e arquitetura de software limpa.
+
+---
+
+### [Jurimetria Preditiva e Provisão Financeira](https://github.com/joaohppenha/jurimetria_preditiva)
+
+> *Sistema de predição de desfechos judiciais e provisionamento financeiro com Random Forest*
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Sistema de predição de desfechos judiciais e provisionamento financeiro com Random Forest. Integra ETL de múltiplas fontes, análise estatística e dashboards Power BI. Gerou aumento de até 50% na eficiência da gestão de processos.
+
+---
+
+### [Projeto Financeira — NoSQL](https://github.com/joaohppenha/projeto-banco-de-emprestimo-consignado)
+
+> *Sistema completo de empréstimo consignado multi-database*
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Sistema completo de empréstimo consignado utilizando MongoDB, Redis e Cassandra. Inclui modelagem, CRUD, consultas avançadas, cache, otimizações de performance e execução via Docker.
+
+---
+
+### [Acessibilidade nos Cinemas Brasileiros — Power BI](https://github.com/joaohppenha/projeto_acessibilidade_nos_cinemas)
+
+> *Análise descritiva do cenário de acessibilidade física dos cinemas brasileiros*
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white)
+
+Análise descritiva do cenário de acessibilidade física dos cinemas brasileiros com dados da ANCINE. Uso de Power Query, DAX, gráficos, mapas e storytelling com dados.
+
+---
+
+### [Projeto Jurisconsulto — SQL e Python](https://github.com/joaohppenha/projeto-jurisconsulto)
+
+> *Modelagem e implementação de banco de dados relacional para advocacia*
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Modelagem e implementação de banco de dados relacional para escritório de advocacia em MySQL. Aplicativo CLI em Python para gestão jurídica e geração automática de preâmbulos de petições.
+
+---
+
+### [Projeto STF](https://github.com/joaohppenha/projeto-STF)
+
+> *Pipeline ETL sobre dados públicos do Supremo Tribunal Federal*
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Pipeline ETL em Python sobre dados públicos do Supremo Tribunal Federal: extração de planilhas Excel, limpeza, transformação e visualização de dados.
+
+---
+
+## Coleção Fundamentos
+
+- **[Fundamentos SQL](https://github.com/joaohppenha/fundamentos-sql)** — DDL, DML, DQL, DTL, DCL com BigQuery
+- **[Fundamentos Python](https://github.com/joaohppenha/fundamentos-python)** — 5 projetos cobrindo variáveis, estruturas de controle, listas, funções, arquivos e exceções
+
+---
+
 ## 📌 Áreas de Atuação & Interesse
 
 - ⚙️ Backend Engineering · Microservices · API Design · FastAPI
@@ -207,6 +295,130 @@ Complete pipeline for public PRF data using **Medallion Architecture (Bronze →
 
 ---
 
+### [DJE-TJSP Scraper & Search Engine](https://github.com/joaohppenha/do-tjsp-scraper)
+
+> *Legal data pipeline with OpenSearch and Streamlit for Official Gazette search*
+
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Legal Analytics solution for automated extraction from TJSP Electronic Gazette. Features web scraping, PDF/HTML parsing, and indexing into an OpenSearch cluster with Full-Text Search, served through an interactive Streamlit UI for advanced legal research.
+
+---
+
+### [FlyRank Auth API](https://github.com/joaohppenha/flyrank-auth-a4)
+
+> *Secure RESTful API with JWT Authentication and Dependency Injection*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+Robust backend API built with FastAPI integrated with Supabase Auth as Identity Provider. Implements full user authentication lifecycles (signup, login, logout), protected endpoints via dependency injection (`HTTPBearer`), and interactive OpenAPI/Swagger UI documentation.
+
+---
+
+### [Shadow Tax Ledger](https://github.com/joaohppenha/shadow-tax-ledger)
+
+> *Event-driven data pipeline for real-time tax mirroring and compliance*
+
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+
+Event-driven data pipeline for real-time tax mirroring, simulating the impact of Brazil's Tax Reform (IBS/CBS) via Shadow Accounting. Executive dashboard for CFO with tax delta KPIs and pricing risk exposure.
+
+---
+
+### [Task Management API — FastAPI & Async Engine](https://github.com/joaohppenha/task-api-fastapi)
+
+> *Concurrent RESTful API for task management with strict validation*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Concurrent RESTful API for task management built with FastAPI featuring strict Pydantic validation, parameterized responses, and OpenAPI documentation.
+
+---
+
+### [Task Management API — SQLite & Pure Backend](https://github.com/joaohppenha/task-api-sqlite)
+
+> *Backend API for task management with clean relational persistence*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+Backend API for task management utilizing Python and relational persistence with SQLite, applying data modeling best practices and clean software architecture.
+
+---
+
+### [Predictive Jurimetrics & Financial Provisioning](https://github.com/joaohppenha/jurimetria_preditiva)
+
+> *Judicial outcome prediction system and dynamic financial provisioning using Random Forest*
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Judicial outcome prediction system and dynamic financial provisioning using Random Forest. Integrates ETL from multiple sources, statistical analysis, and Power BI dashboards. Delivered up to 50% improvement in case management efficiency.
+
+---
+
+### [Financeira — NoSQL Project](https://github.com/joaohppenha/projeto-banco-de-emprestimo-consignado)
+
+> *Complete payroll loan multi-database system*
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Complete payroll loan system using MongoDB, Redis, and Cassandra. Includes data modeling, CRUD, advanced queries, caching, performance optimizations, and a reproducible Docker environment.
+
+---
+
+### [Accessibility in Brazilian Cinemas — Power BI](https://github.com/joaohppenha/projeto_acessibilidade_nos_cinemas)
+
+> *Descriptive analysis of physical accessibility landscape of Brazilian cinemas*
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white)
+
+Descriptive analysis of the physical accessibility landscape of Brazilian cinemas using ANCINE open data. Includes Power Query, DAX formulas, charts, maps, and data storytelling.
+
+---
+
+### [Jurisconsulto — SQL & Python](https://github.com/joaohppenha/projeto-jurisconsulto)
+
+> *Relational database modeling and implementation for a law firm*
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Relational database modeling and implementation for a law firm in MySQL. Python CLI application for legal case management and automatic generation of legal petition headers.
+
+---
+
+### [STF Project](https://github.com/joaohppenha/projeto-STF)
+
+> *Python ETL pipeline on public data from Brazil's Supreme Court*
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Python ETL pipeline on public data from Brazil's Supreme Court: extraction from Excel spreadsheets, cleaning, transformation, and data visualization.
+
+---
+
+## Fundamentals Collection
+
+- **[SQL Fundamentals](https://github.com/joaohppenha/fundamentos-sql)** — DDL, DML, DQL, DTL, DCL with BigQuery
+- **[Python Fundamentals](https://github.com/joaohppenha/fundamentos-python)** — 5 projects covering variables, control flow, lists, functions, files, and exceptions
+
+---
+
 ## 📌 Areas of Expertise & Interest
 
 - ⚙️ Backend Engineering · Microservices · API Design · FastAPI
@@ -219,6 +431,8 @@ Complete pipeline for public PRF data using **Medallion Architecture (Bronze →
 </details>
 
 ---
+
+<!-- ATS Keywords: Backend Engineer, AI Engineer, Data Engineer, Data Analyst, Data Scientist, Python, FastAPI, Pydantic, OpenRouter, OpenAI, PyTorch, Cohere, RAG, Structured Outputs, PySpark, SQL, ETL, ELT, Data Pipeline, Medallion Architecture, Delta Lake, Databricks, Apache Spark, Big Data, Machine Learning, Scikit-learn, Random Forest, Power BI, Streamlit, PostgreSQL, MySQL, MongoDB, Redis, Cassandra, NoSQL, Docker, Git, BigQuery, Data Governance, Data Quality, Data Lineage, TCU, Jurimetria, Jurimetrics, Legal Tech, OpenSearch, Supabase, JWT -->
 
 <p align="center">
   <i>PT: Conectando engenharia pesada, IA e governança para resolver problemas complexos de negócio.</i><br/>
