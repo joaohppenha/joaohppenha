@@ -1,3 +1,10 @@
+Aqui está o seu **README pessoal do GitHub** totalmente atualizado, incluindo a nova seção do projeto **PDF Report Generator API** formatada com os badges, descrição técnica e o link direto para o repositório (`joaohppenha/pdf-report-generator`).
+
+As alterações foram aplicadas proporcionalmente em **ambas as seções (Português e Inglês)** para manter o alinhamento bilíngue:
+
+---
+
+```markdown
 <h1 align="center">Olá, eu sou João Henrique 👋 · Hi, I'm João Henrique 👋</h1>
 
 <p align="center">
@@ -70,6 +77,21 @@ Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas (ADS) e divi
 ---
 
 ## Projetos em Destaque
+
+### [PDF Report Generator API](https://github.com/joaohppenha/pdf-report-generator)
+
+> *Pipeline automatizado de geração de relatórios PDF com Playwright e FastAPI*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+API backend desenvolvida em FastAPI que consulta agregações analíticas em banco relacional SQLite, renderiza dados via Jinja2 em templates HTML e converte os relatórios para PDF em alta fidelidade usando Playwright (headless browser).
+
+**Destaques técnicos:** Agregações SQL avançadas (KPIs, Top 5 Produtos e Séries Temporais), renderização assíncrona controlada por CSS print-media com quebras de página limpas, arquitetura com garantia de idempotência no mesmo dia (`POST /reports`) e serving direto de artefatos PDF.
+
+---
 
 ### [LLM Support Message Enrichment API](https://github.com/joaohppenha/llm-enrichment-api)
 
@@ -267,6 +289,21 @@ Currently pursuing a degree in Systems Analysis and Development (ADS), my techni
 
 ## Featured Projects
 
+### [PDF Report Generator API](https://github.com/joaohppenha/pdf-report-generator)
+
+> *Automated PDF report generation pipeline with Playwright and FastAPI*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Backend API built with FastAPI that queries SQLite analytical aggregations, renders data via Jinja2 into HTML templates, and converts high-fidelity PDF documents using Playwright (headless browser).
+
+**Technical highlights:** Advanced SQL aggregations (KPIs, Top 5 Products, Time Series), async rendering controlled with CSS print-media page breaks, same-day idempotency mechanism (`POST /reports`), and direct PDF file serving endpoints.
+
+---
+
 ### [LLM Support Message Enrichment API](https://github.com/joaohppenha/llm-enrichment-api)
 
 > *Resilient, production-ready API for unstructured message classification and metadata extraction via LLM*
@@ -432,7 +469,7 @@ Python ETL pipeline on public data from Brazil's Supreme Court: extraction from 
 
 ---
 
-<!-- ATS Keywords: Backend Engineer, AI Engineer, Data Engineer, Data Analyst, Data Scientist, Python, FastAPI, Pydantic, OpenRouter, OpenAI, PyTorch, Cohere, RAG, Structured Outputs, PySpark, SQL, ETL, ELT, Data Pipeline, Medallion Architecture, Delta Lake, Databricks, Apache Spark, Big Data, Machine Learning, Scikit-learn, Random Forest, Power BI, Streamlit, PostgreSQL, MySQL, MongoDB, Redis, Cassandra, NoSQL, Docker, Git, BigQuery, Data Governance, Data Quality, Data Lineage, TCU, Jurimetria, Jurimetrics, Legal Tech, OpenSearch, Supabase, JWT -->
+<!-- ATS Keywords: Backend Engineer, AI Engineer, Data Engineer, Data Analyst, Data Scientist, Python, FastAPI, Playwright, Pydantic, OpenRouter, OpenAI, PyTorch, Cohere, RAG, Structured Outputs, PySpark, SQL, ETL, ELT, Data Pipeline, Medallion Architecture, Delta Lake, Databricks, Apache Spark, Big Data, Machine Learning, Scikit-learn, Random Forest, Power BI, Streamlit, PostgreSQL, MySQL, MongoDB, Redis, Cassandra, NoSQL, Docker, Git, BigQuery, Data Governance, Data Quality, Data Lineage, TCU, Jurimetria, Jurimetrics, Legal Tech, OpenSearch, Supabase, JWT -->
 
 <p align="center">
   <i>PT: Conectando engenharia pesada, IA e governança para resolver problemas complexos de negócio.</i><br/>
@@ -444,3 +481,5 @@ Python ETL pipeline on public data from Brazil's Supreme Court: extraction from 
 ## Contato · Contact
 
 **LinkedIn:** https://www.linkedin.com/in/jhppenha/
+
+```
