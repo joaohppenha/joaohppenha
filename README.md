@@ -1,10 +1,4 @@
-Aqui está o seu **README pessoal do GitHub** totalmente atualizado, incluindo a nova seção do projeto **PDF Report Generator API** formatada com os badges, descrição técnica e o link direto para o repositório (`joaohppenha/pdf-report-generator`).
 
-As alterações foram aplicadas proporcionalmente em **ambas as seções (Português e Inglês)** para manter o alinhamento bilíngue:
-
----
-
-```markdown
 <h1 align="center">Olá, eu sou João Henrique 👋 · Hi, I'm João Henrique 👋</h1>
 
 <p align="center">
