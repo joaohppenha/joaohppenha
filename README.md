@@ -1,4 +1,3 @@
-
 <h1 align="center">Olá, eu sou João Henrique 👋 · Hi, I'm João Henrique 👋</h1>
 
 <p align="center">
@@ -71,6 +70,22 @@ Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas (ADS) e divi
 ---
 
 ## Projetos em Destaque
+
+### [EuroGuard AI — RAG Compliance System for GDPR & EU AI Act](https://github.com/joaohppenha/euroguard-ai)
+
+> *Sistema RAG de nível empresarial para análise regulatória e compliance com GDPR e EU AI Act (Projeto Capstone na FlyRank AI)*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+Desenvolvido como Projeto Capstone do meu estágio em Backend e IA na FlyRank AI, o EuroGuard AI é um sistema RAG end-to-end de alta resiliência para consultas e análises de conformidade com o GDPR e o EU AI Act.
+
+**Destaques técnicos:** Busca por similaridade vetorial via PostgreSQL (`pgvector`), geração fundamentada usando Google Gemini 3.6 Flash, guardrails de contexto estritos para eliminação de alucinações, retentativas automáticas e backoff exponencial com `tenacity`, infraestrutura conteinerizada via Podman e interface interativa em Streamlit.
+
+---
 
 ### [PDF Report Generator API](https://github.com/joaohppenha/pdf-report-generator)
 
@@ -283,6 +298,22 @@ Currently pursuing a degree in Systems Analysis and Development (ADS), my techni
 
 ## Featured Projects
 
+### [EuroGuard AI — RAG Compliance System for GDPR & EU AI Act](https://github.com/joaohppenha/euroguard-ai)
+
+> *Enterprise-grade RAG system for GDPR and EU AI Act regulatory compliance analysis (Capstone Project at FlyRank AI)*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+Developed as my Capstone Project during my Backend & AI Internship at FlyRank AI, EuroGuard AI is an end-to-end resilient RAG system engineered for GDPR and EU AI Act compliance analysis.
+
+**Technical highlights:** Vector similarity search via PostgreSQL (`pgvector`), grounded reasoning with Google Gemini 3.6 Flash, strict prompt guardrails to eliminate legal hallucinations, automated retries and exponential backoff via `tenacity`, containerized infrastructure with Podman, and interactive UI via Streamlit.
+
+---
+
 ### [PDF Report Generator API](https://github.com/joaohppenha/pdf-report-generator)
 
 > *Automated PDF report generation pipeline with Playwright and FastAPI*
@@ -475,5 +506,3 @@ Python ETL pipeline on public data from Brazil's Supreme Court: extraction from 
 ## Contato · Contact
 
 **LinkedIn:** https://www.linkedin.com/in/jhppenha/
-
-```
