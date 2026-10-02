@@ -49,7 +49,7 @@ Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas (ADS) e divi
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -71,14 +71,18 @@ Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas (ADS) e divi
 
 ## Projetos em Destaque
 
-### [GovSpender Test](https://github.com/joaohppenha/govspendertest)
+### [GovSpender Test — Public Expenditure Audit Engine](https://github.com/joaohppenha/govspendertest)
 
-> *Projeto para análise e auditoria de gastos governamentais e públicos*
+> *Sistema de Engenharia de Dados e Machine Learning para Auditoria e Detecção de Anomalias em Gastos Públicos (Projeto Capstone na AI Talent Academy — White Cube)*
 
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-Projeto focado no processamento, análise e auditoria de dados de gastos governamentais públicos, visando transparência, detecção de anomalias e conformidade de dados.
+Desenvolvido como Projeto Capstone de conclusão do programa **AI Talent Academy da White Cube**, o GovSpender Test é uma plataforma de inteligência de dados projetada para ingestão, processamento em larga escala e auditoria automatizada de cartões de pagamento e despesas governamentais brasileiras.
+
+**Destaques técnicos:** Pipeline distribuído orientado à Arquitetura Medalhão (Bronze → Silver → Gold) em PySpark, detecção híbrida de anomalias combinando agrupamento estatístico (*K-Means*) e aprendizado não supervisionado (*Isolation Forest*), validação estrita de integridade e geração automatizada de relatórios analíticos para governança pública e controle social.
 
 ---
 
@@ -273,7 +277,7 @@ Pipeline ETL em Python sobre dados públicos do Supremo Tribunal Federal: extra�
 - 🤖 Generative AI · RAG · Structured Outputs · Prompt Engineering
 - ⚙️ Data Engineering · Distributed Pipelines · Medallion Architecture
 - ⚖️ Jurimetria · Legal Analytics · Data Governance & Audit (TCU)
-- 🗄️ SQL & NoSQL Databases · Vector Stores · Data Modeling
+- 🗄️️ SQL & NoSQL Databases · Vector Stores · Data Modeling
 - ☁️ Cloud Data Platforms · Databricks · BigQuery · AWS
 
 </details>
@@ -309,14 +313,18 @@ Currently pursuing a degree in Systems Analysis and Development (ADS), my techni
 
 ## Featured Projects
 
-### [GovSpender Test](https://github.com/joaohppenha/govspendertest)
+### [GovSpender Test — Public Expenditure Audit Engine](https://github.com/joaohppenha/govspendertest)
 
-> *Project for government and public spending analysis and auditing*
+> *Data Engineering & Machine Learning System for Public Spending Audit and Anomaly Detection (Capstone Project at AI Talent Academy — White Cube)*
 
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-Project focused on processing, analyzing, and auditing public government spending data, aimed at transparency, anomaly detection, and data compliance.
+Developed as the Capstone Project for the **AI Talent Academy by White Cube**, GovSpender Test is a data intelligence platform engineered for large-scale ingestion, processing, and automated auditing of public Brazilian government expenditure and credit card data.
+
+**Technical highlights:** Medallion Architecture (Bronze → Silver → Gold) distributed pipeline built with PySpark, hybrid anomaly detection combining statistical clustering (*K-Means*) and unsupervised learning (*Isolation Forest*), strict data integrity validation, and automated analytical report generation for public governance and social control.
 
 ---
 
@@ -496,19 +504,19 @@ Python ETL pipeline on public data from Brazil's Supreme Court: extraction from 
 
 ---
 
-## Fundamentals Collection
+## Coleção Fundamentos
 
-- **[SQL Fundamentals](https://github.com/joaohppenha/fundamentos-sql)** — DDL, DML, DQL, DTL, DCL with BigQuery
-- **[Python Fundamentals](https://github.com/joaohppenha/fundamentos-python)** — 5 projects covering variables, control flow, lists, functions, files, and exceptions
+- **[Fundamentos SQL](https://github.com/joaohppenha/fundamentos-sql)** — DDL, DML, DQL, DTL, DCL com BigQuery
+- **[Fundamentos Python](https://github.com/joaohppenha/fundamentos-python)** — 5 projetos cobrindo variáveis, estruturas de controle, listas, funções, arquivos e exceções
 
 ---
 
-## 📌 Areas of Expertise & Interest
+## 📌 Áreas de Atuação & Interesse
 
 - ⚙️ Backend Engineering · Microservices · API Design · FastAPI
 - 🤖 Generative AI · RAG · Structured Outputs · Prompt Engineering
 - ⚙️ Data Engineering · Distributed Pipelines · Medallion Architecture
-- ⚖️ Jurimetrics · Legal Analytics · Data Governance & Audit (TCU)
+- ⚖️ Jurimetria · Legal Analytics · Data Governance & Audit (TCU)
 - 🗄️ SQL & NoSQL Databases · Vector Stores · Data Modeling
 - ☁️ Cloud Data Platforms · Databricks · BigQuery · AWS
 
