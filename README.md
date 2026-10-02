@@ -82,7 +82,7 @@ Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas (ADS) e divi
 
 Desenvolvido como Projeto Capstone de conclusão do programa **AI Talent Academy da White Cube**, o GovSpender Test é uma plataforma de inteligência de dados projetada para ingestão, processamento em larga escala e auditoria automatizada de cartões de pagamento e despesas governamentais brasileiras.
 
-**Destaques técnicos:** Pipeline distribuído orientado à Arquitetura Medalhão (Bronze → Silver → Gold) em PySpark, detecção híbrida de anomalias combinando agrupamento estatístico (*K-Means*) e aprendizado não supervisionado (*Isolation Forest*), validação estrita de integridade e geração automatizada de relatórios analíticos para governança pública e controle social.
+**Destaques técnicos:** Pipeline distribuído orientado à Arquitetura Medalhão (Bronze → Silver → Gold) emulando um datalake no Github, detecção híbrida de anomalias combinando agrupamento estatístico (*K-Means*) e aprendizado não supervisionado (*Isolation Forest*), validação estrita de integridade e geração automatizada de relatórios analíticos para governança pública e controle social.
 
 ---
 
