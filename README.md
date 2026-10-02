@@ -71,6 +71,17 @@ Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas (ADS) e divi
 
 ## Projetos em Destaque
 
+### [GovSpender Test](https://github.com/joaohppenha/govspendertest)
+
+> *Projeto para análise e auditoria de gastos governamentais e públicos*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+Projeto focado no processamento, análise e auditoria de dados de gastos governamentais públicos, visando transparência, detecção de anomalias e conformidade de dados.
+
+---
+
 ### [EuroGuard AI — RAG Compliance System for GDPR & EU AI Act](https://github.com/joaohppenha/euroguard-ai)
 
 > *Sistema RAG de nível empresarial para análise regulatória e compliance com GDPR e EU AI Act (Projeto Capstone na FlyRank AI)*
@@ -297,6 +308,17 @@ Currently pursuing a degree in Systems Analysis and Development (ADS), my techni
 ---
 
 ## Featured Projects
+
+### [GovSpender Test](https://github.com/joaohppenha/govspendertest)
+
+> *Project for government and public spending analysis and auditing*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+Project focused on processing, analyzing, and auditing public government spending data, aimed at transparency, anomaly detection, and data compliance.
+
+---
 
 ### [EuroGuard AI — RAG Compliance System for GDPR & EU AI Act](https://github.com/joaohppenha/euroguard-ai)
 
