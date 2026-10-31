@@ -132,6 +132,21 @@ API em FastAPI que processa mensagens não estruturadas de suporte SaaS e extrai
 
 ---
 
+### [Dynamic Support Lane Optimizer — Jev AI](https://github.com)
+
+> *Motor Lógico de Triagem Assíncrona e Roteamento de Alta Performance para Sistemas de Suporte e Atendimento ao Cliente*
+
+![Python](https://shields.io)
+![Pandas](https://shields.io)
+![Jev](https://shields.io)
+![Google_Colab](https://shields.io)
+
+Desenvolvido como um protótipo de alta eficiência para plataformas de grande escala (padrão Big Tech e aplicativos de delivery), o projeto implementa um motor inteligente de tomada de decisão baseado nas primitivas estruturadas do Jev (TypeSafe AI) para otimizar fluxos de atendimento ao cliente em segundo plano.
+
+**Destaques técnicos:** Arquitetura orientada ao conceito de processamento rápido (System One) atuando na borda da API para reduzir custos operacionais, mapeamento multidimensional de insatisfação e métricas financeiras (`Score`), roteamento assíncrono e invisível de incidentes para esteiras de suporte dedicadas (`Choice`), e redução analítica de até 160x na latência de resposta se comparado a pipelines convencionais baseados em LLMs generativas.
+
+---
+
 ### [Pipeline Medalhão — Acidentes de Trânsito PRF 2025](https://github.com/joaohppenha/projeto-acidentes-prf)
 
 > *Engenharia de Dados ponta a ponta com arquitetura Medalhão em Databricks*
