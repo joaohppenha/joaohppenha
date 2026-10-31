@@ -146,6 +146,7 @@ Desenvolvido como um protótipo de alta eficiência para plataformas de grande e
 **Destaques técnicos:** Arquitetura orientada ao conceito de processamento rápido (System One) atuando na borda da API para reduzir custos operacionais, mapeamento multidimensional de insatisfação e métricas financeiras (`Score`), roteamento assíncrono e invisível de incidentes para esteiras de suporte dedicadas (`Choice`), e redução analítica de até 160x na latência de resposta se comparado a pipelines convencionais baseados em LLMs generativas.
 
 
+
 ---
 
 ### [Pipeline Medalhão — Acidentes de Trânsito PRF 2025](https://github.com/joaohppenha/projeto-acidentes-prf)
