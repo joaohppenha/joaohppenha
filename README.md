@@ -102,7 +102,7 @@ Desenvolvido como Projeto Capstone do meu estágio em Backend e IA na FlyRank AI
 
 ---
 
-### [CARE-Graph AI — Firewall Neurossimbólico para Soberania de Dados Indígenas](https://github.com/joaohppenha/care-graph-ai)
+### [CARE-Graph AI — Firewall Neurossimbólico para Soberania de Dados Indígenas](https://github.com/joaohppenha/care_graph_ai)
 
 > *Firewall neurossimbólico em tempo real para soberania de dados indígenas, proteção de TEK e compliance com a Lei 13.123/2015*. Projeto desenvolvido para a Hackaton Code for Humanity
 
