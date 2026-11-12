@@ -102,6 +102,24 @@ Desenvolvido como Projeto Capstone do meu estágio em Backend e IA na FlyRank AI
 
 ---
 
+### [CARE-Graph AI — Firewall Neurossimbólico para Soberania de Dados Indígenas](https://github.com/joaohppenha/care-graph-ai)
+
+> *Firewall neurossimbólico em tempo real para soberania de dados indígenas, proteção de TEK e compliance com a Lei 13.123/2015*. Projeto desenvolvido para a Hackaton Code for Humanity
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![OWL Ontology](https://img.shields.io/badge/OWL%2Fontology-388E3C?style=flat-square&logo=semanticweb&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+
+Desenvolvido para o hackathon Code for Humanity, o CARE-Graph AI é um sistema de governança de segurança inteligente que atua como middleware entre bases de dados tradicionais/geoespaciais e consumidores externos, operacionalizando os Princípios CARE na Bacia Amazônica.
+
+**Destaques técnicos:** Raciocínio simbólico baseado em ontologias OWL via `owlready2`, contratos de governança determinísticos com validação de tipo estrita via `Pydantic`, enforcement geoespacial em camadas dinâmicas com satélite (*Esri World Imagery* via `folium`) e trilha de auditoria criptográfica imutável em `JSONL`.
+
+
+---
+
+
 ### [PDF Report Generator API](https://github.com/joaohppenha/pdf-report-generator)
 
 > *Pipeline automatizado de geração de relatórios PDF com Playwright e FastAPI*
